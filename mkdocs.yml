@@ -1,6 +1,7 @@
 site_name: Westwind's Notee
 theme:
   name: 'material'
+google_analytics: [ 'UA-35050152-3' , 'westwind.github.io' ]
 markdown_extensions:
   - codehilite:
       linenums: true

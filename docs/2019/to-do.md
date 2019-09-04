@@ -1,21 +1,24 @@
 To-Do List
 ===
-* [ ] Create git repo to save articles
-* [ ] Create git repo to deploy personal page
-* [ ] Use Travis-CI to continuous deploy pernsonal page
+* [x] Create git repo to save articles
+* [x] Create git repo to deploy personal page
+* [x] Use Travis-CI to continuous deploy pernsonal page
 * [ ] Articles
 
-* [ ] 重灌Irene
+* [x] 重灌Irene
         - Docker
         - vim 
         - stock parser as a service
+
 * [ ] MAC 重灌
-        - docker/docker-compose
-        - vim
         - brew
-        - virtul box/ vagrant
+        - vim
         - sublime text 3
+        - git
+        - notion
         - todoist
+        - docker/docker-compose
+        - virtul box/ vagrant
 * [ ] Related Database
 ```
 ## Database
@@ -38,6 +41,7 @@ To-Do List
         - Dashbroad
         - User add
         - Backup
+        - grafana-reporter
 
 * [ ] swagger
 
